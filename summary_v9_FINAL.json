@@ -1,0 +1,9 @@
+{
+  "dataset": "Wikidata-VI (kg/full.txt + question_generated)",
+  "em_v9_qwen_ft": 38.8,
+  "em_v9_qwen_base_subset": 20.5,
+  "em_v9_qwen_ft_subset": 40.0,
+  "finetune_gain_subset": 19.5,
+  "test_n": 1000,
+  "n_triples": 48647
+}
